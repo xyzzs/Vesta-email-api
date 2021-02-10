@@ -34,7 +34,9 @@ Vesta面板用户，建议这里新建一个用户
 
 
 /*Vesta 配置 */
+
 $user=[
+
 'ip'=>'127.0.0.1',//Vesta服务器IP
 
 'username'=>'username',//Vesta面板用户
