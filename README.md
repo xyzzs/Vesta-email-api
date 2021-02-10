@@ -36,16 +36,23 @@ Vesta面板用户，建议这里新建一个用户
 /*Vesta 配置 */
 $user=[
 'ip'=>'127.0.0.1',//Vesta服务器IP
+
 'username'=>'username',//Vesta面板用户
+
 'passwd'=>'passwd',//Vesta面板密码
+
 ];
+
        
 
 
 //业务域名
 
 $domain=[
+
 //['域名','描述']
+
 'a1'=>['baidu.com','A1 1T '],//A1网盘
+
 ];
 
