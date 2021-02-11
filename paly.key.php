@@ -39,7 +39,7 @@ function getRandomString($len, $chars=null)
 if($_GET['sum']){
 	for($i=0;$i<$_GET['sum'];$i++){
 		$keys[]=$key=getRandomString(8);
-		file_put_contents('./key/'.$key  ,'');
+		file_put_contents('./key/'.$key );
 		
 	}
 }
